@@ -1,6 +1,9 @@
 # Retrieve Live Chat from any YouTube Live Video
 ## For experimental purpose only
 
+## important note
+### YouTube webpage structure may change anytime in the future and that will make this code non-functional 
+
 # Installation
 
 ```bash
